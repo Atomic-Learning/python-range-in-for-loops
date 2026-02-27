@@ -1,0 +1,22 @@
+{
+    "title": "Python: Using range() in For Loops",
+    "slug": "python-range-in-for-loops",
+    "description": "Explains range(start, stop, step), default values, and stop-exclusive behaviour in Python loops.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python"
+    ],
+    "duration": 4,
+    "prerequisites": [
+        "python-for-loops-over-iterables",
+        "programming-integers-and-floats"
+    ],
+    "related": [
+        "python-slicing",
+        "exercise-python-sum-of-squares-range",
+        "python-nested-for-loops",
+        "programming-accumulator-pattern"
+    ]
+}
