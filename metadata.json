@@ -17,6 +17,7 @@
         "python-slicing",
         "exercise-python-sum-of-squares-range",
         "python-nested-for-loops",
-        "programming-accumulator-pattern"
+        "programming-accumulator-pattern",
+        "python-making-lists-from-ranges"
     ]
 }
